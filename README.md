@@ -4,7 +4,6 @@
 
 -   🔭 Current project [Mini Kalzone](https://mini-kalzone.netlify.app/)
 -   ⚙️ Past projects [D/MYS Home Design Web app](https://www.dimasconstrucoes.com.br/dmys/), [AMC Construtora](https://www.amcconstrutora.com.br/), [Cavallazzi](https://advempresarial.com.br/), [Uatt?](https://www.uatt.com.br/), [Blog Uatt?](https://blog.uatt.com.br/), [Oceanic Beach Residence](https://oceanic.fmendonca.com.br/), [Blog Senac](https://blog.sc.senac.br/), [GR Comunicação](https://www.grcomunicacao.com.br/)
--   📄 [Resume](https://drive.google.com/file/d/1JKN_DnnAUKpUskD5TYmRcytHos82cLJI/view)
 -   📫 Reach me **afonso.rossonii@gmail.com**
 
 #### Languages and Tools:
