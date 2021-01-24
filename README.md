@@ -2,8 +2,8 @@
 
 #### I'm a Front-end Developer from Brazil, current working for a digital agency where I code several different projects using various wide-ranging stacks and technologies.
 
--   🔭 Current project [Mini Kalzone](https://mini-kalzone.netlify.app/)
--   ⚙️ Past projects [D/MYS Home Design Web app](https://www.dimasconstrucoes.com.br/dmys/), [AMC Construtora](https://www.amcconstrutora.com.br/), [Cavallazzi](https://advempresarial.com.br/), [Uatt?](https://www.uatt.com.br/), [Blog Uatt?](https://blog.uatt.com.br/), [Oceanic Beach Residence](https://oceanic.fmendonca.com.br/), [Blog Senac](https://blog.sc.senac.br/), [GR Comunicação](https://www.grcomunicacao.com.br/)
+-   🔭 Current project [Mini Kalzone](https://siteminikalzone.tiki.com.br/)
+-   ⚙️ Past projects [D/MYS Home Design Web app](https://www.dimasconstrucoes.com.br/dmys/), [AMC Construtora](https://www.amcconstrutora.com.br/), [Cavallazzi](https://advempresarial.com.br/), [Uatt?](https://www.uatt.com.br/), [Blog Uatt?](https://blog.uatt.com.br/), [Oceanic Beach Residence](https://oceanicresidence.com.br/), [Blog Senac](https://blog.sc.senac.br/), [GR Comunicação](https://www.grcomunicacao.com.br/), [Bridgestone Sports](https://bridgestonesports.bridgestone.com.br/)
 -   📫 Reach me **afonso.rossonii@gmail.com**
 
 #### Languages and Tools:
